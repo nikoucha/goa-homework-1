@@ -1,0 +1,47 @@
+# string=ნებისმიერი  რამე ფრჩხილებში ბრჭყალებში. 
+print("hello")
+print ("pen")
+print ("word")
+print ("world")
+print ("pencil")
+#integer=ნებისმიერი ნატურალური რიცხვი. 
+print (8)
+print (9)
+print (7)
+print (6)
+print (5)
+#float=ნებისმიერი ათწილადი რიცხვი. 
+print (3,5)
+print (2,5)
+print (1,5)
+print (7,8)
+print (9,8)
+# ცვლადი არის ყუთი, სადაცდ წერია რაიმე ნემისმიერი ინფორმაცია.
+print ("name")
+name=nick
+print ("age")
+age=11
+print ("my favorite color")
+my favorite color=yellow
+print ("my favorite food")
+my favorite food=khinkali
+print ("my hobby")
+my hobby=playing football
+print ("name+age+my favorite color+my favorite food+my hobby")
+print (5+2)
+print (6+7)
+print (5+6)
+print (8-5)
+print (9-1)
+print (14-7)
+print (2*8)
+print (5*7)
+print (12*5)
+print (8/2)
+print (8/4)
+print (15//2)
+num1=1746
+num2=6378
+num3=7782
+total_result=num1+num2+num3
+print ("total_result")
