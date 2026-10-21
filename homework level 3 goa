@@ -1,1 +1,20 @@
-
+#კომენტარი არის რამეს რომ ავღწერთ რასაც ვწერთ, "#" ნიშნით უნდა შევქმნათ კომენტარი და ადამიანებისთვისაა
+#case-sensitive არის როცა სისტემა დიდ და პატარა ასოებს სხვანაირად თვლის ხოლო case-insensitive არის როცა იგივედ თვლის დიდ და პატარა ასოებს.
+#snake_case არის _
+player_name= "Kvara"
+print (player_name)
+team_name= "PSG"
+print (team_name)
+goal_count= 29
+print (goal_count)
+print (player_name+team_name+goal_count)
+#bug არის რაიმე შეცდოამს რომ დაუშვებ მაგალითად print-ის ნაცვლად რომ prit დაწერ bug-ია
+name="Lika"
+print (name)
+name = "liKa"
+name_2=name+4
+first_user = "Lika"
+second_user = "Giorgi"
+print (first_name)
+first_name = "Data"
+last_name= "Random"
