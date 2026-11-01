@@ -1,0 +1,19 @@
+num_1= 8
+num_2=20
+num_3=11
+print ((num_1+num_2+num_3)/3)
+NUM_1=22
+NUM_2=41
+print ((NUM_1+NUM_2)/2)
+dad_name=(input("enter dad_name : "))
+print (type"dad_name")
+mom_name=(input("enter mom_name : "))
+print (type"mom_name")
+sister_name= (input("enter your sister_name : "))
+print (type"sister_name")
+print (dad_name+mom_name+sister_name)
+city="Tbilisi"
+district="Moskow Avenue"
+print (city+district)
+age=11
+print (age)
